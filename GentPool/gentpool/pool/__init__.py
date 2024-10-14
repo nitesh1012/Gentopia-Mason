@@ -9,3 +9,10 @@ from .vanilla_template import *
 from .openai_memory_template import *
 from .vanilla-ziyu import *
 from .scholar-ziyu import *
+from .hw2_vanilla_agent import *
+from .hw2_scholar_agent import *
+from .hw2_scholar_modified import *
+from .travel_test import *
+from .travel_a import *
+from .travel_test1 import *
+from .travel_test import *

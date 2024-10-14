@@ -5,8 +5,8 @@ from amadeus import Client, ResponseError
 
 
 amadeus = Client(
-    client_id='LjGrGSQU7h724Td2E09DDRASnT9eDTQd',
-    client_secret='1JeIuTY2kzYzq7pA'
+    client_id='',  # Your API client ID
+    client_secret=''  # Your API client secret key
 )
 
 
